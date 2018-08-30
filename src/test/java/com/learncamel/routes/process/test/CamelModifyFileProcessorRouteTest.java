@@ -1,4 +1,4 @@
-package com.learncamel.routes.test;
+package com.learncamel.routes.process.test;
 
 import java.io.File;
 
@@ -7,7 +7,7 @@ import org.apache.camel.component.mock.MockEndpoint;
 import org.apache.camel.test.junit4.CamelTestSupport;
 import org.junit.Test;
 
-import com.learncamel.routes.CamelModifyFileProcessorRoute;
+import com.learncamel.routes.process.CamelModifyFileProcessorRoute;
 
 public class CamelModifyFileProcessorRouteTest extends CamelTestSupport {
 	
