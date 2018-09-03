@@ -1,4 +1,4 @@
-package com.lreancamel.bean;
+package com.learncamel.bean;
 
 public class CamelBean {
 	public String map(String input) {

@@ -2,7 +2,7 @@ package com.learncamel.route.bean;
 
 import org.apache.camel.builder.RouteBuilder;
 
-import com.lreancamel.bean.CamelBean;
+import com.learncamel.bean.CamelBean;
 
 public class CamelModifyBeanRoute extends RouteBuilder {
 
