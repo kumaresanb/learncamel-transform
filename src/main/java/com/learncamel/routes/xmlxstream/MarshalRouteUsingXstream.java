@@ -1,4 +1,4 @@
-package com.leanrcamel.routes.xmlxstream;
+package com.learncamel.routes.xmlxstream;
 
 import java.util.HashMap;
 import java.util.Map;
